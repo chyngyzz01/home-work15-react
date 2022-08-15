@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chyngyzz01/home-work15-react/static/css/main.4decefb5.css",
+    "main.js": "/chyngyzz01/home-work15-react/static/js/main.99099530.js",
+    "index.html": "/chyngyzz01/home-work15-react/index.html",
+    "main.4decefb5.css.map": "/chyngyzz01/home-work15-react/static/css/main.4decefb5.css.map",
+    "main.99099530.js.map": "/chyngyzz01/home-work15-react/static/js/main.99099530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4decefb5.css",
+    "static/js/main.99099530.js"
+  ]
+}
